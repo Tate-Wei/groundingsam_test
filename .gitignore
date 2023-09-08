@@ -1,6 +1,7 @@
 # weights
-input/weights/
-output/
+input/weights/*.pth
+output/!.gitkeep
+!input/weights/.gitkeep
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
